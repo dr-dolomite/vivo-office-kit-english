@@ -1,0 +1,9 @@
+# Created on each run; contains local paths
+patch-log.txt
+
+# Backups and temp files the patcher may leave next to an install
+*.bak
+*.en-kit.tmp
+
+# vivo's own files are not redistributed here
+assets/
