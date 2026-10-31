@@ -1,4 +1,4 @@
-<#
+﻿<#
 .SYNOPSIS
   Adds English UI support to the Chinese (CN) build of vivo Office Kit (vivo办公套件).
 
