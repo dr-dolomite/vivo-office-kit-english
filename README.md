@@ -29,7 +29,7 @@ In the extracted folder, double-click **`vivo English Kit.cmd`**.
 **3. Click Install**<br>
 Click **Install English Language Support**. When Windows asks for permission, click **Yes**.
 
-✅ **That's it.** vivo Office Kit restarts in English.
+**That's it.** vivo Office Kit restarts in English.
 
 </td>
 <td width="45%">
