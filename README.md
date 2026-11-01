@@ -5,7 +5,7 @@
 **Use the Chinese vivo Office Kit (vivo办公套件) in English, in one click.**<br>
 For China-market vivo phones that only work with the Chinese version.
 
-[![Download](https://img.shields.io/badge/⬇_Download-vivo_English_Kit-2EA44F?style=for-the-badge)](https://github.com/dr-dolomite/vivo-office-kit-english/releases/latest/download/vivo-office-kit-english-v1.0.0.zip)
+[![Download](https://img.shields.io/badge/⬇_Download-vivo_English_Kit-2EA44F?style=for-the-badge)](https://github.com/dr-dolomite/vivo-office-kit-english/releases/latest/download/vivo-office-kit-english-v1.1.0.zip)
 
 Windows 10 & 11 · Nothing else to install · Undo anytime
 
@@ -92,8 +92,9 @@ Otherwise it uses the classic look. Both work the same.
 ### What gets translated
 - Everything vivo already translated for its Global version.
 - China-only features vivo never translated, using vivo's own English names where they exist:
-  **Origin Notes**, **Calendar**, **Albums**, **Recorder**, **To-dos**, the cloud services
-  (Contacts, Cloud Drive, Find My Device…), sync prompts, search, sorting and File Manager categories.
+  **Origin Notes**, **Calendar**, **Albums**, **Recorder**, **To-dos**, **Settings**, the cloud services
+  (Contacts, Cloud Drive, Find My Device…), device connection and backup, sync prompts, search,
+  sorting and File Manager. See the [changelog](CHANGELOG.md) for what's new.
 - Some less-used screens may still show a little Chinese. Spotted one?
   [Open an issue](https://github.com/dr-dolomite/vivo-office-kit-english/issues) with a screenshot.
 
