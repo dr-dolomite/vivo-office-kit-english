@@ -27,15 +27,3 @@ Dates and counts read naturally in English ("2026/5/2 Sat", "Every 2 weeks (Mon,
 
 Some less-used screens may still show a little Chinese. Names that come from your phone or
 vivo's servers (album names, speaker names, server categories) stay as they are.
-
-## v1.0.0 (2026-10-31)
-
-First release.
-
-- Adds English to the Chinese vivo Office Kit (vivo办公套件). It keeps using China servers, so
-  China-market vivo phones keep connecting.
-- Translates the main China-only features vivo never translated (Origin Notes, Calendar, Albums,
-  Recorder, cloud services, sync prompts, File Manager categories).
-- One-click undo with **Restore Chinese**.
-- Works on Windows 10 and 11 with the built-in PowerShell. Tested with vivo Office Kit 7.0.6
-  (Chinese build).
